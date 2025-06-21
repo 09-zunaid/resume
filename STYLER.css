@@ -1,0 +1,96 @@
+body{
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 76%;
+}
+h1{
+    padding: 10px;
+    border-left: 5px groove lightblue;
+    border-radius: 5px;
+    color: rgb(57, 31, 47);
+    text-align: left;
+}
+.sidef{
+    width: 72%;
+    color: rgb(57, 31, 47);
+}
+#contact{
+    background-color: lightblue;
+    border-radius: 12px;
+    text-align: center;
+}
+#actualc{
+    padding-left: 20px;
+}
+#profile{
+    background-color: lightblue;
+    border-radius: 12px;
+    text-align: center;
+}
+#actualp{
+    padding-left: 20px;
+}
+#education{
+    background-color: lightblue;
+    border-radius: 12px;
+    text-align: center;
+}
+#actuale{
+    padding-left: 20px;
+}
+.educationn{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+#eduleft{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-right:  solid;
+}
+#eduright{
+    padding-left: 20px;
+}
+#experience{
+    background-color: lightblue;
+    border-radius: 12px;
+    text-align: center;
+}
+#actualex{
+    padding-left: px;
+}
+#language{
+    background-color: lightblue;
+    border-radius: 12px;
+    text-align: center;
+}
+#actual1{
+    padding-left: 20px;
+}
+#sider{
+    background-color:rgb(121, 134, 147);
+    opacity: 80%;
+    height: 725px;
+    max-width: 33%;
+    color:rgb(57, 31, 47);
+    position: fixed;
+    right: 10px;
+}
+img{
+    height: 300px;
+    padding: 20px;
+}
+#skills{
+    text-align: center;
+}
+#reference{
+    text-align: center;
+}
+#actualr{
+    padding-left: 25px;
+}
